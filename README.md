@@ -24,9 +24,7 @@ cd next-stock-dashboard
 # Install dependencies
 npm install
 
-# Add your API keys in .env.local
-cp .env.example .env.local
-# Fill in the appropriate values
+# Add your API keys in src/app/_config/iciciDirect.ts
 
 # Start the development server
 npm run dev
