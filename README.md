@@ -18,7 +18,7 @@ A modern and responsive stock market dashboard built with **Next.js**, providing
 
 ```bash
 # Clone the repository
-git clone https://github.com/Shrinidhi701/stock-market
+git clone https://github.com/Shrinidhi701/stock-market-v1
 cd next-stock-dashboard
 
 # Install dependencies
